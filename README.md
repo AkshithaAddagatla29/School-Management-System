@@ -40,20 +40,20 @@ The **School Management System** is a powerful and efficient tool designed to he
 
 3. **Activate the virtual environment:**
    ```bash
-  source venv/bin/activate  # For Linux/Mac
-  venv\Scripts\activate  # For Windows
+   source venv/bin/activate  # For Linux/Mac
+   venv\Scripts\activate  # For Windows
 
 4. **Install dependencies:**
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
   
 5. **Set up the database:**
    ```bash
-  python manage.py migrate
+   python manage.py migrate
 
 6. **Create a superuser account:**
    ```bash
-  python manage.py createsuperuser
+   python manage.py createsuperuser
    
 9. **Run the application:**
    ```bash
