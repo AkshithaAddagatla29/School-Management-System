@@ -32,7 +32,7 @@ The **School Management System** is a powerful and efficient tool designed to he
    git clone https://github.com/yourusername/school-management-system.git
 2. **Navigate to the project directory:**
    ```bash
-  cd school_management_system
+   cd school_management_system
   
 3. **Create a virtual environment:**
    ```bash
